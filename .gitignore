@@ -32,6 +32,9 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+# Directory to store all mdi-icons in. See also https://github.com/Templarian/MaterialDesign
+mdi-icons/
+
 # Dependency directories
 node_modules/
 jspm_packages/
